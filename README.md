@@ -131,17 +131,18 @@ rspec filename.rb
 
 ## 👥 Authors <a name="authors"></a>
 
+ 👤 **Okpah Igbo**
+
+- GitHub: [Github](https://github.com/david30-maker)
+- Twitter: [Twitter](https://twitter.com/davidigbo1)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/davidigbo/)
+
 👤 **Taiwo Enoch**
 
 - [Github](https://github.com/TaiwoEnoch)
 - [Linkedin](https://www.linkedin.com/in/taiwo01/)
 - [Twitter](https://twitter.com/taiwoenoch4)
 
-  👤 **Okpah Igbo**
-
-- GitHub: [@david30-maker](https://github.com/david30-maker)
-- Twitter: [@davidigbo1](https://twitter.com/davidigbo1)
-- LinkedIn: [davidigbo/](https://www.linkedin.com/in/davidigbo/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
