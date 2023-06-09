@@ -133,9 +133,9 @@ rspec filename.rb
 
  👤 **Okpah Igbo**
 
-- GitHub: [Github](https://github.com/david30-maker)
-- Twitter: [Twitter](https://twitter.com/davidigbo1)
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/davidigbo/)
+- [Github](https://github.com/david30-maker)
+- [Twitter](https://twitter.com/davidigbo1)
+- [Linkedin](https://www.linkedin.com/in/davidigbo/)
 
 👤 **Taiwo Enoch**
 
